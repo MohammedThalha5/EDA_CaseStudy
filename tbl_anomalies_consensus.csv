@@ -1,0 +1,11 @@
+Date,Stage,Phase,Gold_pct,SP500_pct,Nifty50_pct,IF_score,MD2,flag_IF,flag_MD,flag_UNI,Regime,Driver
+2026-04-08,Stage2,Post-ceasefire,1.97,2.51,3.78,0.63,20.33,True,True,True,R2,US-Iran two-week ceasefire announced
+2026-03-23,Stage2,Conflict,-3.66,1.15,-2.6,0.6,18.0,True,True,False,R2,
+2025-05-12,Stage1,Pre-conflict,-3.47,3.26,3.82,0.6,76.71,True,True,True,R1,US-China tariff truce / India-Pakistan ceasefire (non-Iran)
+2026-03-27,Stage2,Conflict,2.66,-1.67,-2.09,0.59,16.94,True,True,False,R2,
+2026-03-19,Stage2,Conflict,-5.93,-0.27,-3.26,0.58,24.59,False,True,True,R2,
+2026-02-03,Stage2,Pre-conflict,6.07,-0.84,2.55,0.56,28.18,False,True,True,R1,
+2026-01-30,Stage2,Pre-conflict,-10.78,-0.43,-0.39,0.55,60.61,False,True,True,R1,"Fed-chair nomination, USD surge, positioning unwind (non-Iran)"
+2025-05-21,Stage1,Pre-conflict,0.88,-1.61,0.52,0.46,13.86,False,True,True,R1,
+2025-06-02,Stage1,Pre-conflict,3.29,0.41,-0.14,0.42,11.83,False,True,True,R1,
+2025-05-27,Stage1,Pre-conflict,-1.94,2.05,-0.7,0.42,15.95,False,True,True,R1,

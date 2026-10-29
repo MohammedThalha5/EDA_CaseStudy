@@ -1,0 +1,16 @@
+Event,Date,Iran_event,Asset,Day0_pct,Pre_m5_to_m1_pct,Cum_0_to_5_pct,Cum_0_to_10_pct
+Israel strikes Iran,2025-06-13,True,Gold,1.48,0.81,-0.49,-3.37
+Israel strikes Iran,2025-06-13,True,SP500,-1.13,1.78,-1.28,2.11
+Israel strikes Iran,2025-06-13,True,Nifty50,-0.68,0.55,0.9,3.01
+Ceasefire (12-day war),2025-06-24,True,Gold,-1.8,-0.65,-1.33,-2.3
+Ceasefire (12-day war),2025-06-24,True,SP500,1.11,-0.13,2.87,3.33
+Ceasefire (12-day war),2025-06-24,True,Nifty50,0.29,0.1,2.28,2.2
+Fed-chair nomination (non-Iran control),2026-01-30,False,Gold,-10.78,8.24,-6.37,-5.12
+Fed-chair nomination (non-Iran control),2026-01-30,False,SP500,-0.43,0.81,-0.53,-1.91
+Fed-chair nomination (non-Iran control),2026-01-30,False,Nifty50,-0.39,0.51,1.08,0.21
+US-Israel war begins,2026-03-02,True,Gold,1.21,3.29,-2.75,-4.68
+US-Israel war begins,2026-03-02,True,SP500,0.04,-0.44,-1.2,-2.61
+US-Israel war begins,2026-03-02,True,Nifty50,-1.24,-1.54,-4.57,-7.03
+Two-week ceasefire,2026-04-08,True,Gold,1.97,0.8,2.96,1.46
+Two-week ceasefire,2026-04-08,True,SP500,2.51,1.35,6.14,7.87
+Two-week ceasefire,2026-04-08,True,Nifty50,3.78,3.55,4.79,5.42

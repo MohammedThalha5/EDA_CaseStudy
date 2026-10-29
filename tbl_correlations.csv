@@ -1,0 +1,4 @@
+Pair,Stage1_n,Stage1_pearson,Stage1_p,Stage1_ci_lo,Stage1_ci_hi,Stage1_spearman,Stage1_spearman_p,Stage2_n,Stage2_pearson,Stage2_p,Stage2_ci_lo,Stage2_ci_hi,Stage2_spearman,Stage2_spearman_p,Change_z,Change_p
+Gold - SP500,62,-0.5057,0.0,-0.6927,-0.2312,-0.3859,0.002,71,0.2097,0.0793,-0.0227,0.4319,0.2768,0.0195,4.3262,0.0
+Gold - Nifty50,62,-0.2572,0.0436,-0.5526,0.1409,-0.1049,0.4172,65,0.3005,0.015,0.0358,0.5341,0.1928,0.1239,3.152,0.0016
+SP500 - Nifty50,61,0.3061,0.0164,-0.2315,0.6473,0.0233,0.8587,65,0.2183,0.0807,-0.1002,0.4854,0.1205,0.339,-0.5165,0.6055

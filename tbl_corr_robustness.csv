@@ -1,0 +1,10 @@
+Stage,Dropped_day,Pair,Full,Without_day
+Stage1,2025-05-12,Gold - SP500,-0.506,-0.397
+Stage1,2025-05-12,Gold - Nifty50,-0.257,-0.05
+Stage1,2025-05-12,SP500 - Nifty50,0.306,-0.04
+Stage2,2026-01-30,Gold - SP500,0.21,0.212
+Stage2,2026-01-30,Gold - Nifty50,0.301,0.349
+Stage2,2026-01-30,SP500 - Nifty50,0.218,0.217
+Stage2,2026-04-08,Gold - SP500,0.21,0.19
+Stage2,2026-04-08,Gold - Nifty50,0.301,0.286
+Stage2,2026-04-08,SP500 - Nifty50,0.218,0.097

@@ -1,0 +1,7 @@
+Stage,Asset,Business_days,Missing_before,Missing_pct,MAD_ffill_vs_interp
+Stage1,Gold,66,2,3.03,21.9501
+Stage1,SP500,66,3,4.55,30.1868
+Stage1,Nifty50,66,1,1.52,0.0
+Stage2,Gold,75,3,4.0,52.6333
+Stage2,SP500,75,3,4.0,29.8901
+Stage2,Nifty50,75,7,9.33,142.1857

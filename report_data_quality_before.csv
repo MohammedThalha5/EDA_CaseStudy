@@ -1,0 +1,7 @@
+,rows,start,end,missing_cells,missing_pct,duplicate_dates,zero_volume_days,non_positive_close,high<low_errors
+Gold|Stage1,64,2025-05-01,2025-07-31,0,0.0,0,3,0,0
+Gold|Stage2,72,2026-01-15,2026-04-29,0,0.0,0,1,0,0
+SP500|Stage1,63,2025-05-01,2025-07-31,0,0.0,0,0,0,0
+SP500|Stage2,72,2026-01-15,2026-04-29,0,0.0,0,0,0,0
+Nifty50|Stage1,65,2025-05-02,2025-07-31,0,0.0,0,0,0,0
+Nifty50|Stage2,68,2026-01-16,2026-04-29,0,0.0,0,0,0,0

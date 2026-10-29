@@ -1,0 +1,4 @@
+Asset,Mean_diff_t,Mean_diff_p,Levene_stat(var),Levene_p
+Gold,0.1598,0.8733,11.499,0.0009
+SP500,1.1015,0.2727,3.9487,0.049
+Nifty50,0.6479,0.5184,12.9928,0.0004

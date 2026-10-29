@@ -1,0 +1,7 @@
+,rows,missing_prices,imputed_values,outliers_flagged
+Gold|Stage1,66,0,2,3
+SP500|Stage1,66,0,3,3
+Nifty50|Stage1,66,0,1,1
+Gold|Stage2,75,0,3,3
+SP500|Stage2,75,0,3,2
+Nifty50|Stage2,75,0,7,1
